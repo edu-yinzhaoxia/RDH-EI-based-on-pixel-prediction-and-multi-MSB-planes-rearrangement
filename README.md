@@ -1,1 +1,1 @@
-# Reversible-data-hiding-in-encrypted-images-based-on-pixel-prediction-and-multi-MSB-planes-rearrangem
+# Reversible-data-hiding-in-encrypted-images-based-on-pixel-prediction-and-multi-MSB-planes-rearrangement
